@@ -1,0 +1,3458 @@
+{
+    "total": 8389,
+    "uniqueTotal": 852,
+    "count": {
+        "kanji": {
+            "count": 2340,
+            "percent": "28.0%"
+        },
+        "hiragana": {
+            "count": 5413,
+            "percent": "65.0%"
+        },
+        "katakana": {
+            "count": 101,
+            "percent": "1.0%"
+        },
+        "punctuation": {
+            "count": 529,
+            "percent": "6.0%"
+        },
+        "latin": {
+            "count": 6,
+            "percent": "0.0%"
+        }
+    },
+    "uniqueCount": {
+        "kanji": {
+            "count": 724,
+            "percent": "85.0%"
+        },
+        "hiragana": {
+            "count": 73,
+            "percent": "9.0%"
+        },
+        "katakana": {
+            "count": 36,
+            "percent": "4.0%"
+        },
+        "punctuation": {
+            "count": 15,
+            "percent": "2.0%"
+        },
+        "latin": {
+            "count": 4,
+            "percent": "0.0%"
+        }
+    },
+    "characters": {
+        "の": {
+            "count": 354,
+            "script": "hiragana"
+        },
+        "た": {
+            "count": 325,
+            "script": "hiragana"
+        },
+        "し": {
+            "count": 299,
+            "script": "hiragana"
+        },
+        "い": {
+            "count": 271,
+            "script": "hiragana"
+        },
+        "て": {
+            "count": 253,
+            "script": "hiragana"
+        },
+        "は": {
+            "count": 231,
+            "script": "hiragana"
+        },
+        "に": {
+            "count": 225,
+            "script": "hiragana"
+        },
+        "、": {
+            "count": 205,
+            "script": "punctuation"
+        },
+        "。": {
+            "count": 198,
+            "script": "punctuation"
+        },
+        "な": {
+            "count": 186,
+            "script": "hiragana"
+        },
+        "が": {
+            "count": 174,
+            "script": "hiragana"
+        },
+        "と": {
+            "count": 168,
+            "script": "hiragana"
+        },
+        "っ": {
+            "count": 167,
+            "script": "hiragana"
+        },
+        "を": {
+            "count": 165,
+            "script": "hiragana"
+        },
+        "る": {
+            "count": 147,
+            "script": "hiragana"
+        },
+        "か": {
+            "count": 135,
+            "script": "hiragana"
+        },
+        "で": {
+            "count": 130,
+            "script": "hiragana"
+        },
+        "も": {
+            "count": 127,
+            "script": "hiragana"
+        },
+        "う": {
+            "count": 123,
+            "script": "hiragana"
+        },
+        "わ": {
+            "count": 120,
+            "script": "hiragana"
+        },
+        "ん": {
+            "count": 114,
+            "script": "hiragana"
+        },
+        "こ": {
+            "count": 110,
+            "script": "hiragana"
+        },
+        "ら": {
+            "count": 108,
+            "script": "hiragana"
+        },
+        "ま": {
+            "count": 104,
+            "script": "hiragana"
+        },
+        "れ": {
+            "count": 91,
+            "script": "hiragana"
+        },
+        "く": {
+            "count": 86,
+            "script": "hiragana"
+        },
+        "り": {
+            "count": 84,
+            "script": "hiragana"
+        },
+        "あ": {
+            "count": 83,
+            "script": "hiragana"
+        },
+        "す": {
+            "count": 73,
+            "script": "hiragana"
+        },
+        "だ": {
+            "count": 68,
+            "script": "hiragana"
+        },
+        "よ": {
+            "count": 65,
+            "script": "hiragana"
+        },
+        "そ": {
+            "count": 63,
+            "script": "hiragana"
+        },
+        "お": {
+            "count": 61,
+            "script": "hiragana"
+        },
+        "来": {
+            "count": 60,
+            "script": "kanji"
+        },
+        "き": {
+            "count": 58,
+            "script": "hiragana"
+        },
+        "出": {
+            "count": 57,
+            "script": "kanji"
+        },
+        "「": {
+            "count": 50,
+            "script": "punctuation"
+        },
+        "」": {
+            "count": 50,
+            "script": "punctuation"
+        },
+        "つ": {
+            "count": 47,
+            "script": "hiragana"
+        },
+        "彼": {
+            "count": 44,
+            "script": "kanji"
+        },
+        "ど": {
+            "count": 43,
+            "script": "hiragana"
+        },
+        "け": {
+            "count": 42,
+            "script": "hiragana"
+        },
+        "一": {
+            "count": 40,
+            "script": "kanji"
+        },
+        "さ": {
+            "count": 37,
+            "script": "hiragana"
+        },
+        "ち": {
+            "count": 36,
+            "script": "hiragana"
+        },
+        "土": {
+            "count": 35,
+            "script": "kanji"
+        },
+        "え": {
+            "count": 33,
+            "script": "hiragana"
+        },
+        "や": {
+            "count": 32,
+            "script": "hiragana"
+        },
+        "せ": {
+            "count": 32,
+            "script": "hiragana"
+        },
+        "ね": {
+            "count": 29,
+            "script": "hiragana"
+        },
+        "閏": {
+            "count": 28,
+            "script": "kanji"
+        },
+        "ば": {
+            "count": 27,
+            "script": "hiragana"
+        },
+        "時": {
+            "count": 26,
+            "script": "kanji"
+        },
+        "見": {
+            "count": 25,
+            "script": "kanji"
+        },
+        "ろ": {
+            "count": 25,
+            "script": "hiragana"
+        },
+        "前": {
+            "count": 24,
+            "script": "kanji"
+        },
+        "人": {
+            "count": 24,
+            "script": "kanji"
+        },
+        "め": {
+            "count": 23,
+            "script": "hiragana"
+        },
+        "行": {
+            "count": 23,
+            "script": "kanji"
+        },
+        "じ": {
+            "count": 23,
+            "script": "hiragana"
+        },
+        "年": {
+            "count": 20,
+            "script": "kanji"
+        },
+        "家": {
+            "count": 20,
+            "script": "kanji"
+        },
+        "ず": {
+            "count": 19,
+            "script": "hiragana"
+        },
+        "話": {
+            "count": 19,
+            "script": "kanji"
+        },
+        "み": {
+            "count": 18,
+            "script": "hiragana"
+        },
+        "母": {
+            "count": 18,
+            "script": "kanji"
+        },
+        "上": {
+            "count": 17,
+            "script": "kanji"
+        },
+        "言": {
+            "count": 17,
+            "script": "kanji"
+        },
+        "何": {
+            "count": 17,
+            "script": "kanji"
+        },
+        "日": {
+            "count": 17,
+            "script": "kanji"
+        },
+        "中": {
+            "count": 16,
+            "script": "kanji"
+        },
+        "び": {
+            "count": 16,
+            "script": "hiragana"
+        },
+        "持": {
+            "count": 16,
+            "script": "kanji"
+        },
+        "大": {
+            "count": 15,
+            "script": "kanji"
+        },
+        "知": {
+            "count": 15,
+            "script": "kanji"
+        },
+        "今": {
+            "count": 14,
+            "script": "kanji"
+        },
+        "へ": {
+            "count": 14,
+            "script": "hiragana"
+        },
+        "手": {
+            "count": 14,
+            "script": "kanji"
+        },
+        "ン": {
+            "count": 14,
+            "script": "katakana"
+        },
+        "生": {
+            "count": 14,
+            "script": "kanji"
+        },
+        "屋": {
+            "count": 13,
+            "script": "kanji"
+        },
+        "ょ": {
+            "count": 13,
+            "script": "hiragana"
+        },
+        "ゃ": {
+            "count": 13,
+            "script": "hiragana"
+        },
+        "故": {
+            "count": 12,
+            "script": "kanji"
+        },
+        "郷": {
+            "count": 12,
+            "script": "kanji"
+        },
+        "ぐ": {
+            "count": 12,
+            "script": "hiragana"
+        },
+        "向": {
+            "count": 12,
+            "script": "kanji"
+        },
+        "分": {
+            "count": 12,
+            "script": "kanji"
+        },
+        "二": {
+            "count": 11,
+            "script": "kanji"
+        },
+        "小": {
+            "count": 11,
+            "script": "kanji"
+        },
+        "度": {
+            "count": 11,
+            "script": "kanji"
+        },
+        "入": {
+            "count": 11,
+            "script": "kanji"
+        },
+        "方": {
+            "count": 11,
+            "script": "kanji"
+        },
+        "思": {
+            "count": 11,
+            "script": "kanji"
+        },
+        "ぶ": {
+            "count": 11,
+            "script": "hiragana"
+        },
+        "金": {
+            "count": 11,
+            "script": "kanji"
+        },
+        "地": {
+            "count": 11,
+            "script": "kanji"
+        },
+        "帰": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "船": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "外": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "本": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "ゆ": {
+            "count": 10,
+            "script": "hiragana"
+        },
+        "目": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "宏": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "兒": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "色": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "水": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "子": {
+            "count": 10,
+            "script": "kanji"
+        },
+        "十": {
+            "count": 9,
+            "script": "kanji"
+        },
+        "身": {
+            "count": 9,
+            "script": "kanji"
+        },
+        "月": {
+            "count": 9,
+            "script": "kanji"
+        },
+        "張": {
+            "count": 9,
+            "script": "kanji"
+        },
+        "頭": {
+            "count": 9,
+            "script": "kanji"
+        },
+        "道": {
+            "count": 9,
+            "script": "kanji"
+        },
+        "下": {
+            "count": 8,
+            "script": "kanji"
+        },
+        "む": {
+            "count": 8,
+            "script": "hiragana"
+        },
+        "売": {
+            "count": 8,
+            "script": "kanji"
+        },
+        "事": {
+            "count": 8,
+            "script": "kanji"
+        },
+        "立": {
+            "count": 8,
+            "script": "kanji"
+        },
+        "物": {
+            "count": 8,
+            "script": "kanji"
+        },
+        "掛": {
+            "count": 8,
+            "script": "kanji"
+        },
+        "棒": {
+            "count": 8,
+            "script": "kanji"
+        },
+        "父": {
+            "count": 8,
+            "script": "kanji"
+        },
+        "ッ": {
+            "count": 8,
+            "script": "katakana"
+        },
+        "供": {
+            "count": 8,
+            "script": "kanji"
+        },
+        "べ": {
+            "count": 8,
+            "script": "hiragana"
+        },
+        "多": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "自": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "ひ": {
+            "count": 7,
+            "script": "hiragana"
+        },
+        "非": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "常": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "親": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "取": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "西": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "げ": {
+            "count": 7,
+            "script": "hiragana"
+        },
+        "者": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "五": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "ハ": {
+            "count": 7,
+            "script": "katakana"
+        },
+        "引": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "様": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "後": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "望": {
+            "count": 7,
+            "script": "kanji"
+        },
+        "別": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "気": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "間": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "空": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "ほ": {
+            "count": 6,
+            "script": "hiragana"
+        },
+        "遠": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "足": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "海": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "辺": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "ぼ": {
+            "count": 6,
+            "script": "hiragana"
+        },
+        "竜": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "三": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "当": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "ざ": {
+            "count": 6,
+            "script": "hiragana"
+        },
+        "長": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "コ": {
+            "count": 6,
+            "script": "katakana"
+        },
+        "鳥": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "ラ": {
+            "count": 6,
+            "script": "katakana"
+        },
+        "要": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "等": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "台": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "豆": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "腐": {
+            "count": 6,
+            "script": "kanji"
+        },
+        "づ": {
+            "count": 5,
+            "script": "hiragana"
+        },
+        "風": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "黄": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "活": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "我": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "記": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "解": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "食": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "ぎ": {
+            "count": 5,
+            "script": "hiragana"
+        },
+        "著": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "ぬ": {
+            "count": 5,
+            "script": "hiragana"
+        },
+        "初": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "少": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "深": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "瓜": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "幾": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "廻": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "聞": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "顔": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "キ": {
+            "count": 5,
+            "script": "katakana"
+        },
+        "覚": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "鶏": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "犬": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "現": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "声": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "女": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "乗": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "？": {
+            "count": 5,
+            "script": "punctuation"
+        },
+        "連": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "苦": {
+            "count": 5,
+            "script": "kanji"
+        },
+        "隔": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "ゅ": {
+            "count": 4,
+            "script": "hiragana"
+        },
+        "村": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "悲": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "動": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "葉": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "歩": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "感": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "緒": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "老": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "ぜ": {
+            "count": 4,
+            "script": "hiragana"
+        },
+        "正": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "早": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "口": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "ふ": {
+            "count": 4,
+            "script": "hiragana"
+        },
+        "側": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "包": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "突": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "面": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "具": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "ご": {
+            "count": 4,
+            "script": "hiragana"
+        },
+        "輪": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "世": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "祭": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "像": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "器": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "マ": {
+            "count": 4,
+            "script": "katakana"
+        },
+        "馳": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "去": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "対": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "次": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "雪": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "皆": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "貝": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "殻": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "青": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "御": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "四": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "憶": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "木": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "薄": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "眼": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "ス": {
+            "count": 4,
+            "script": "katakana"
+        },
+        "リ": {
+            "count": 4,
+            "script": "katakana"
+        },
+        "飯": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "煙": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "旦": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "那": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "凡": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "灰": {
+            "count": 4,
+            "script": "kanji"
+        },
+        "迅": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "寒": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "近": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "切": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "込": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "心": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "！": {
+            "count": 3,
+            "script": "punctuation"
+        },
+        "想": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "姿": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "変": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "永": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "内": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "明": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "ぱ": {
+            "count": 3,
+            "script": "hiragana"
+        },
+        "元": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "部": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "住": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "移": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "朝": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "同": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "八": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "歳": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "飛": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "不": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "暇": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "藍": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "作": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "銀": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "叉": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "在": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "撰": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "泥": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "忙": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "番": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "（": {
+            "count": 3,
+            "script": "punctuation"
+        },
+        "）": {
+            "count": 3,
+            "script": "punctuation"
+        },
+        "々": {
+            "count": 3,
+            "script": "punctuation"
+        },
+        "新": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "丸": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "頸": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "降": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "沙": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "ぢ": {
+            "count": 3,
+            "script": "hiragana"
+        },
+        "角": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "1": {
+            "count": 3,
+            "script": "latin"
+        },
+        "背": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "処": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "被": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "昼": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "山": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "達": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "高": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "眺": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "遂": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "送": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "寄": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "越": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "無": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "如": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "驚": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "唇": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "パ": {
+            "count": 3,
+            "script": "katakana"
+        },
+        "忘": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "奥": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "施": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "結": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "塵": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "溜": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "紙": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "管": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "ゴ": {
+            "count": 3,
+            "script": "katakana"
+        },
+        "タ": {
+            "count": 3,
+            "script": "katakana"
+        },
+        "偶": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "発": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "柵": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "辛": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "希": {
+            "count": 3,
+            "script": "kanji"
+        },
+        "梅": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "余": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "里": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "冬": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "天": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "室": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "吹": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "荒": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "横": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "佳": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "進": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "境": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "化": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "省": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "期": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "限": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "全": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "慣": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "離": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "繫": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "門": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "草": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "顫": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "主": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "敷": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "転": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "喜": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "淋": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "茶": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "逢": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "極": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "嵩": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "払": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "買": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "荷": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "運": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "半": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "語": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "類": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "済": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "昔": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "神": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "砂": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "緑": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "ぽ": {
+            "count": 2,
+            "script": "hiragana"
+        },
+        "項": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "刺": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "跨": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "逃": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "合": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "重": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "用": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "ユ": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "エ": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "倅": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "許": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "ャ": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "短": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "工": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "ト": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "ワ": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "仕": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "嬉": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "名": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "待": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "紫": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "漉": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "羅": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "紗": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "帽": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "恐": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "層": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "誰": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "経": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "シ": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "搔": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "箕": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "米": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "［": {
+            "count": 2,
+            "script": "punctuation"
+        },
+        "＃": {
+            "count": 2,
+            "script": "punctuation"
+        },
+        "］": {
+            "count": 2,
+            "script": "punctuation"
+        },
+        "赤": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "晩": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "第": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "利": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "毛": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "皮": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "先": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "跳": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "魚": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "脚": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "過": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "哭": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "所": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "品": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "美": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "応": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "白": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "景": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "訊": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "汽": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "車": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "種": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "尖": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "然": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "頰": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "骨": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "両": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "製": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "楊": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "嫂": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "坐": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "判": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "テ": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "未": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "レ": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "ア": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "笑": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "位": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "決": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "楽": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "ホ": {
+            "count": 2,
+            "script": "katakana"
+        },
+        "午": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "皺": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "枚": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "続": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "局": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "ぞ": {
+            "count": 2,
+            "script": "hiragana"
+        },
+        "辞": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "儀": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "有": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "座": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "羞": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "相": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "遊": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "席": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "卓": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "暮": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "始": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "税": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "焚": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "勝": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "香": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "炉": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "燭": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "藁": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "料": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "積": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "代": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "残": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "睡": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "違": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "脈": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "展": {
+            "count": 2,
+            "script": "kanji"
+        },
+        "魯": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "井": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "紅": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "訳": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "厳": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "冒": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "千": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "最": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "従": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "闇": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鳴": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "苫": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "隙": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "蒼": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "抑": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "釈": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "棲": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "公": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "渡": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "的": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "国": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "根": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "瓦": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "茎": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "枯": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "更": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "原": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "因": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "説": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "族": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "概": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "迎": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "甥": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "押": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "紛": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "真": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "借": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "調": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "拵": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "便": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "銭": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "継": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "久": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "乞": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "到": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "画": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "閃": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "畑": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "果": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "碧": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鋼": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鉄": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "握": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "疋": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "ぴ": {
+            "count": 1,
+            "script": "hiragana"
+        },
+        "力": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "任": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "潜": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "都": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "坊": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鄭": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "掲": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "影": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "択": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "釜": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "参": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "詣": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "雑": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "沓": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "申": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "契": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "約": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "チ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "ネ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "雇": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "節": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "刈": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "臨": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "及": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "頃": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "欠": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "罠": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "末": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "呼": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "告": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "炊": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "愛": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "死": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "仏": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "願": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "庇": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "護": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "特": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "好": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "仲": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "街": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "頼": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "支": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "撒": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "縛": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "縄": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "稲": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鴣": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "孛": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "＋": {
+            "count": 1,
+            "script": "punctuation"
+        },
+        "0": {
+            "count": 1,
+            "script": "latin"
+        },
+        "5": {
+            "count": 1,
+            "script": "latin"
+        },
+        "-": {
+            "count": 1,
+            "script": "latin"
+        },
+        "左": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "夏": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鬼": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "観": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "音": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "旅": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "喉": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "渇": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "数": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "貛": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "猪": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "耳": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "澄": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "響": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "嚙": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "攫": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "覧": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "形": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "猛": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "烈": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "咬": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "畜": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "馬": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鹿": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "巧": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "奴": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "油": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "滑": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "珍": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "危": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "険": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "性": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "菓": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "店": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "潮": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "集": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "蛙": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "胸": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "際": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "議": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "往": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "友": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "塀": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "囲": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "惜": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "泣": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "隠": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "託": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "届": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "電": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "答": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "喚": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "字": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "書": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鬚": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "喫": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "袴": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "股": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "穿": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "踏": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "図": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "抱": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "塩": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "評": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "粉": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "塗": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "勢": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "商": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "繁": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "盛": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "噂": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "齢": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "関": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "係": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "受": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "平": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "侮": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "フ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "ナ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "ポ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "オ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "亜": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "加": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "メ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "カ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "嘲": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "冷": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "慌": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "譲": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "貧": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "乏": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "使": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "構": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "捨": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "妾": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "舁": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "轎": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "仰": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "私": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "瞞": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "噤": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "翻": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "駄": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "賃": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "袋": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "双": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "素": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "ズ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "ボ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "腰": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "捻": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "戚": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "訪": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "酬": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "偸": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "李": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "飲": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "丈": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "倍": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "伸": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "額": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "溝": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "ソ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "ク": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "腫": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "百": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "姓": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "汐": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "破": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "体": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "棉": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "松": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "裂": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "亢": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "奮": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "珠": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "湧": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "弾": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "吐": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "態": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "敬": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "奉": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "躱": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "瘦": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "困": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "階": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "丁": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "寧": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "低": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "難": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "頂": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "戴": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "致": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "慮": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "兄": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "弟": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "機": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "嫌": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "懼": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "招": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "俄": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "庭": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "乾": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "差": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "揺": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "伝": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "終": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "費": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "途": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "実": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "悪": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "削": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "振": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "刻": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "石": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "表": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "案": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "沈": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "吸": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "察": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "吩": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "付": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "遇": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "歎": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "息": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "殖": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "飢": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "饉": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "匪": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "兵": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "隊": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "乱": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "暴": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "官": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "吏": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "椅": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "秤": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "燃": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "肥": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "格": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "必": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "九": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "児": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "急": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "客": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "兼": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "イ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "掃": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "ガ": {
+            "count": 1,
+            "script": "katakana"
+        },
+        "岸": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "黛": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "装": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "凝": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "梢": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "退": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "窓": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "凭": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "質": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "問": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "叔": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "考": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "黒": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "造": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "毎": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "皿": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鉢": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "拾": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "論": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "挙": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "句": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "埋": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "柄": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "『": {
+            "count": 1,
+            "script": "punctuation"
+        },
+        "』": {
+            "count": 1,
+            "script": "punctuation"
+        },
+        "摑": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "纏": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "養": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "盤": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "嵌": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "餌": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "嘴": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "啄": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "鼻": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "閊": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "練": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "底": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "聴": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "走": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "絶": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "置": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "輩": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "通": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "念": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "再": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "膜": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "求": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "麻": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "痺": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "放": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "埒": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "験": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "可": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "崇": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "拝": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "夢": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "野": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "広": {
+            "count": 1,
+            "script": "kanji"
+        },
+        "開": {
+            "count": 1,
+            "script": "kanji"
+        }
+    }
+}
